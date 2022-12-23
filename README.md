@@ -1,1 +1,1 @@
-# deploy nexus application using ansible to automate the whole process
+# Automate the process of installation for nexus
